@@ -170,6 +170,7 @@ Security and service-state screenshot:
 
 ## Demo: Self-Healing
 
+<<<<<<< HEAD
 Break state intentionally:
 
 ```bash
@@ -187,6 +188,8 @@ Validate healed state:
 ```bash
 systemctl status docker --no-pager
 ```
+=======
+>>>>>>> 34e1f579b70112092cccdd016496a95b9a9979c6
 
 Expected:
 
