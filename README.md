@@ -85,7 +85,7 @@ Our application follows a microservices architecture with complete separation of
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/Kalaigar-Ayesha/Chat-application.git
+git clone https://github.com/Kalaigar-Ayesha/DevOps-Chat-application.git
 cd Chat-application
 
 # Start development environment
